@@ -3,7 +3,7 @@ title: "Kit"
 layout: page
 ---
 
-- 13" MacBook Pro w/OS X El Capitan
+- 13" MacBook Pro w/macOS Sierra
 - Fastmail (email & calendar)
 - iPhone 6s
 - Vim (well plugged-in)
