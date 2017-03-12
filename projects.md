@@ -25,10 +25,6 @@ over 1000 people. I'm just the server admin...
 **fff**
 : Fast File Finder. For now this is just a Go CLI to do the most common things I do with `find`, but without all the flags and arguments. As ag is to grep, fff is to find.
 
-**choppy**
-: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
-
-
 <hr>
 ## Completed
 
