@@ -2,7 +2,7 @@
 title: Fossil to git
 layout: post
 ---
-A while back I [dabbled with Fossil SCM]({{ site.baseurl }}{% post_url 2015-01-29-fossil-1 %}). I liked parts of it but ended up returning to git. During that experiment,
+A while back I [dabbled with Fossil SCM]({% post_url 2015-01-29-fossil-1 %}). I liked parts of it but ended up returning to git. During that experiment,
 I created a fair bit of content in Fossil and wanted to get it out. I assumed this would be easy because I'd
 used the Fossil `export` command previously to create a `git-fast-import`-compatible text file with all of the
 repo contents. This time, however, I was met with this error upon import:
@@ -15,4 +15,3 @@ Vim. Even without any knowledge of the format, it was easy to grok what was goin
 which is presumably a bug in Fossil.
 
 I just moved the whole mark :685 section to the top of the file, reran `git-fast-import`, and everything worked!
-

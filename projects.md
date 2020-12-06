@@ -60,7 +60,7 @@ documentation to a shared Github repo. Shut down when I found Dash did most of w
 : Repackaged [TaskJuggler](http://www.taskjuggler.org/) syntax highlighting for easier installation by [Vundle](https://github.com/VundleVim/Vundle.vim) and the like.
 
 **fdoc**
-: Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({{ site.baseurl }}{% post_url 2015-01-29-fossil-1 %}).
+: Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({% post_url 2015-01-29-fossil-1 %}).
 
 **<a href="/cheapset.png" data-lightbox="cheapset" data-title="Cheapset">Cheapset</a>**
 : Ancient history from deep in the archives! I wrote this in the early 90's as a way to set a PC clock using a ham radio. It was my first program to
