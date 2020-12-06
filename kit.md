@@ -3,7 +3,7 @@ title: "Kit"
 layout: page
 ---
 
-- 13" MacBook Pro w/macOS Sierra
+- 2020 MacBook Air w/macOS Catalina
 - Fastmail (email & calendar)
 - iPhone 6s
 - Vim (well plugged-in)
