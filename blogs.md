@@ -15,7 +15,7 @@ life, and I like the idea of putting them in read-only/archive mode when appropr
 : My eponymous site, including a blog of opinions and tech odds and ends (2013--).
 
 <br>
-**[Oregon Life](http://blog.kalafut.net)**
+**[Oregon Life](http://blog.kalafut.net)***
 : Our current, occasionally-updated family blog (2010--).
 
 <br>
