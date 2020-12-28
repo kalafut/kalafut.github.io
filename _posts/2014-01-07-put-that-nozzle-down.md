@@ -27,7 +27,7 @@ Welcome back. Now that you've had a good laugh, let me describe what it's like f
 Alright, sometimes it's a not _too_ slow, but a lot of times it is. It's painful to try to fill up on a mid-Sunday morning and the stations
 look like:
 
-![Cluster](/oil-embargo.jpg)
+![Cluster](/assets/oil-embargo.jpg)
 
 And for what?? So after minutes of waiting, some guy can hand me a receipt and close the fuel door? Almost every person I know has
 pumped gas since they were 16 and never needed much assistance.
@@ -43,7 +43,4 @@ It's a silly law that will probably never be repealed. People here like it. From
 >One thing drivers in Oregon never have to do is get out of the car on a rainy or cold day to put gas in their vehicle.
 >
 >"I think it's one of those things that people who come to Oregon have trouble believing it. It boils down to Oregon likes to be a little bit different sometimes,” Dodds said.
-
-
-
 
