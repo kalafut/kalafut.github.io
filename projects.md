@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Projects"
+published: false
 ---
 
 Since [DOS 2.11][] I've always been working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endeavors, hence this page.

@@ -1,8 +1,7 @@
-+++
-date = "2015-08-23T19:14:57-07:00"
-draft = false
-title = "About"
-+++
+---
+title: About
+layout: post
+---
 
 My name is Jim and I've liked technology for as long as I can remember. I've had hobbies and formal
 education in electronics, but software is my real passion and I've been working with it for a long time.
