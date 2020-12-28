@@ -47,7 +47,7 @@ documentation to a shared Github repo. Shut down when I found Dash did most of w
 **[Critigram][]**
 : Display your [Criticker](http://criticker.com) ratings histogramically. Also, a test project for Coffeescript and Google Charts.
 
-**<a href="/freeladder1_censored.jpg" data-lightbox="freeladder" data-title="Standing and challenges">FreeLadder</a>** <a href="/freeladder2_censored.jpg" data-lightbox="freeladder" data-title="Records and stats"></a>
+**<a href="/assets/freeladder1_censored.jpg" data-lightbox="freeladder" data-title="Standing and challenges">FreeLadder</a>** <a href="/assets/freeladder2_censored.jpg" data-lightbox="freeladder" data-title="Records and stats"></a>
 : PHP/MySQL/JS web app to run the company's table tennis ladder. Responsive design and plenty of stats tracking included.
 
 **[Fruitbot][]**
