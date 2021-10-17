@@ -11,4 +11,4 @@ layout: page
 - Apple Photos
 - Things 3 & Craft
 - Digital Ocean VPS's
-- [2008 Toyota Prius](http://pd.kalafut.net/?p=28)
+- [2008 Toyota Prius](https://pd.kalafut.net/index.html%3Fp=28.html)
