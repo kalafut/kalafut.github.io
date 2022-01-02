@@ -30,6 +30,6 @@ Note taking is the most interesting space. I've been a long time [Bear](https://
 * **Notion**. I found it to be a jumbled grab bag of features. Slow.
 * **Joplin**. Love the OSS aspect and self hosting, but the mobile experience is just too weak ATM.
 * **Emacs Org Mode**. Every few years I take a look and then promptly move on.
-* **[Craft](https://www.craft.do/)**. A serious contender. I used is exclusively for a few months and was really impressed. Top notch (Bear-grade) Mac and iOS apps and a rapid development pace. Maybe _too_ rapid? Lots of features are being added, though to some degree I'd like a more constrained solution. But what has ultimately (for now) turned me back to Bear is the difficulty in managing/organizing notes.
+* **[Craft](https://www.craft.do/)**. A serious contender. I used is exclusively for a few months and was really impressed. Top notch (Bear-grade) Mac and iOS apps and a rapid development pace. Maybe _too_ rapid? Lots of features are being added, though to some degree I'd like a more constrained solution. But what has ultimately (for now) turned me back to Bear is the difficulty in managing/organizing notes. The subdocument thing is a little strange and has fought me, and there are no tags. Most annoying is that when you're in a document it is difficult to move it to another folder.
 
 
