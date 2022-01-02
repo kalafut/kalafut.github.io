@@ -26,7 +26,7 @@ Note taking is the most interesting space. I've been a long time [Bear](https://
 
 * **Obsidian**. Still has potential, but the sync situation using iCloud was a disappointment. Also the apps didn't feel good to use at all. I also don't really want more infinite customization.
 * **Evernote**. Decided to check in on the old dog, especially since their big new version/revamp came out. Garbage. Worse than before.
-* **Apple Notes**. Pretty good and getting even better with tags and smart searches. But the lock-in (no export) story is a real problem for me in a notes app.
+* **Apple Notes**. Pretty good and getting even better with tags and smart folders. But the lock-in (no export) story is a real problem for me in a notes app.
 * **Notion**. I found it to be a jumbled grab bag of features. Slow.
 * **Joplin**. Love the OSS aspect and self hosting, but the mobile experience is just too weak ATM.
 * **Emacs Org Mode**. Every few visit I take a look and then promptly move on.
