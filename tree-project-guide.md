@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Title
+hide_header: true
 ---
 
 ## Project Guide
