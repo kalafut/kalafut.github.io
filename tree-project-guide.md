@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Project Guide
 hide_header: true
 ---
-
-## Project Guide
 
 The primary goal of the [Family Tree](/tree-invite) site is capturing the current, *living* family tree. I want to show my kids as much of the extended family as I can, complete with dates, places and photos. Ancestral information is of course interesting too, though to start I'm focused on current and recent generations. I’m happy to include any connection to us, even if quite distant.
 
