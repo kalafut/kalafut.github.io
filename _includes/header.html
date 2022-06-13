@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title bold-link" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+    <a class="site-title bold-link text-2xl" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title and my_page.hide_header != true %}
-          <a class="page-link bold-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <a class="page-link bold-link text-xl" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
       </div>

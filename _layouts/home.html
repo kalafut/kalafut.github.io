@@ -13,7 +13,7 @@ layout: default
       {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
       {% if forloop.first %}
-      <h1 id="{{ this_year }}-ref">{{this_year}}</h1>
+      <h1 class="text-3xl" id="{{ this_year }}-ref">{{this_year}}</h1>
       <ul class="post-list">
       {% endif %}
 
@@ -26,8 +26,7 @@ layout: default
       {% else %}
           {% if this_year != next_year %}
           </ul>
-          <hr style="margin: 1em auto 1em; color: #eee; ">
-          <h1 id="{{ next_year }}-ref">{{next_year}}</h1>
+          <h1 class="text-3xl pt-5" id="{{ next_year }}-ref">{{next_year}}</h1>
           <ul class="post-list">
           {% endif %}
       {% endif %}

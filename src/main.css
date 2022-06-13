@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("/assets/fonts/FiraCode/fira_code.css");
+@import url("/assets/fonts/cmuserif_roman/stylesheet.css");
+@import url("/assets/fonts/cmuserif_bold/stylesheet.css");
+
+@font-face {
+    font-family: 'cmu_serifroman';
+    src: url('/assets/fonts/cmuserif_roman/cmunrm-webfont.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'cmu_serifbold';
+    src: url('/assets/fonts/cmuserif_bold/cmunbx-webfont.woff') format('woff');
+}
+
+strong {
+    font-family: 'cmu_serifbold';
+}
+
+
+
+/*
+@layer base {
+  html {
+    font-family: 'cmu_serifroman', 'serif';
+  }
+}
+*/
